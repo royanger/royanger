@@ -9,10 +9,10 @@ I'm a WordPress and PHP developer who creates bespoke sites for 🏪 small busin
 -  **Databases:** MySQL, Postgres
 
 Connect with me:
-[![Gmail](/images/gmail-24.png)][gmail]
-[![Facebook](/images/facebook-24.png)][facebook]
-[![LinkedIn](/images/linkedin-24.png)][linkedin]
-[![GitHub](/images/github-24.png)][github]
+[![Gmail](https://github.com/royanger/royanger/blob/master/images/gmail-24.png)][gmail]
+[![Facebook](https://github.com/royanger/royanger/blob/master/images/facebook-24.png)][facebook]
+[![LinkedIn](https://github.com/royanger/royanger/blob/master/images/linkedin-24.png)][linkedin]
+[![GitHub](https://github.com/royanger/royanger/blob/master/images/github-24.png)][github]
 
 _If you like this, please leave a ⭐ for this repo._
 
