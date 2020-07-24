@@ -1,41 +1,22 @@
-# Hi, I'm Roy
+# Hi, I'm Roy.
 
-I'm a WordPress and PHP developer who creates bespoke sites for small businesses. I've been making the transition to Node and React and will, hopefully, be focusing on that in the near future. For now I, do freelance work.
+I'm a WordPress and PHP developer who creates bespoke sites for 🏪 small businesses. I've been making the transition to Node and React and will be focusing on that in the near future. For now I, do freelance work from 🏠. When I'm not coding, I dabble in design, spend time with my wife and our dog, read tons and enjoy 🎮 games like Destiny, Titanfall and Apex Legends.
 
-## Things I Do
+## My Skillset
 
-[x] WordPress Devevlopment
+-  **Languages:** JavaScript, PHP
+-  **Frontend:** HTML, CSS
+-  **Databases:** MySQL, Postgres
 
-[x] Custom WordPress Themes
+Connect with me:
+[![Gmail](/images/gmail-24.png)][gmail]
+[![Facebook](/images/facebook-24.png)][facebook]
+[![LinkedIn](/images/linkedin-24.png)][linkedin]
+[![GitHub](/images/github-24.png)][github]
 
-[x] Manage and Host Client Sites
+_If you like this, please leave a ⭐ for this repo._
 
-## Things I'm Learning
-
-[ ] Node
-
-[ ] React
-
-[ ] React Native
-
-[ ] MongoDB
-
-## Things I Know
-
-[x] PHP
-
-[x] JS
-
-[x] MySql/PostgresSQL
-
-[x] WordPress/PHP Hosting
-
-[x] HTML/CSS
-
-## Things I Love
-
-[x] My wife and dog
-
-[x] Reading
-
-[x] Gaming -- Destiny, Apex Legends and Titanfall
+[gmail]: mailto:royanger@gmail.com
+[facebook]: facebook.com/royanger
+[linkedin]: https://www.linkedin.com/in/royanger/
+[github]: https://github.com/royanger
