@@ -1,4 +1,4 @@
-[Roy Anger's Github Banner](https://github.com/royanger/royanger/blob/master/images/banner.jpg)
+![Roy Anger's Github Banner](https://github.com/royanger/royanger/blob/master/images/royanger-banner.jpg)
 
 # About Me
 
